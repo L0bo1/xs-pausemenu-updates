@@ -1,0 +1,37 @@
+xs-pausemenu changelog
+
+Version 2.2.1
+- Fixed small layout issue in the player info card.
+- Improved ESC close behavior in some pause menu states.
+- Added automatic scroll for keybinds and rules.
+- Improved staff online counter compatibility.
+- Reduced avatar loading delay when cache is active.
+
+Version 2.2.0
+- Added staff online counter.
+- Added config validator.
+- Added debug mode.
+- Added optional update checker.
+- Added card fade-in animations.
+- Added LICENSE.md for commercial builds.
+- Improved card hover effects.
+
+Espanol
+
+xs-pausemenu changelog
+
+Version 2.2.1
+- Corregido pequeño problema visual en la card de información del jugador.
+- Mejorado el cierre con ESC en algunos estados del pause menu.
+- Agregado scroll automático para keybinds y rules.
+- Mejorada la compatibilidad del contador de staff online.
+- Reducido el delay del avatar cuando el cache está activo.
+
+Version 2.2.0
+- Agregado contador de staff online.
+- Agregado config validator.
+- Agregado debug mode.
+- Agregado update checker opcional.
+- Agregadas animaciones fade-in por cards.
+- Agregado LICENSE.md para builds comerciales.
+- Mejorado hover de las cards.
