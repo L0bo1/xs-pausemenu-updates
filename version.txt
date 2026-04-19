@@ -1,0 +1,5 @@
+Nueva versión: 2.2.1
+Cambios:
+- Mejorado avatar cache
+- Añadido nuevo theme
+- Fix para ESC
